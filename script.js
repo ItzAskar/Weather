@@ -40,4 +40,4 @@ document.querySelector(".searchbar").addEventListener("keyup", function(event){
     }
 });
 
-weather.fetchWeather("durgapur");
+weather.fetchWeather("Chennai");
